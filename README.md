@@ -39,7 +39,7 @@ All visualizations update dynamically when filters are changed.
 
 ---
 
-## Technical Skills Demonstrated
+## Technical Skills Learned 
 
 - Microsoft Excel
 - XLOOKUP
